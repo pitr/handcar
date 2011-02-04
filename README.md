@@ -15,7 +15,3 @@ Rails 3 project with the following:
 ## Usage
 
     rails new myapp -m https://github.com/pitr/handcar/raw/master/template.rb
-
-Or even shorter:
-
-    rails new myapp -m https://github.com/pitr/handcar/raw/master/template.rb

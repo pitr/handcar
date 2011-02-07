@@ -8,7 +8,7 @@ Rails 3 project with the following:
 - Database: PostgreSQL
 - TDD: Rspec 2
 - BDD: Steak and Capybara
-- JavaScript: jQuery 1.5 and rails.js
+- JavaScript: jQuery 1.4.4 and rails.js
 - CSS: reset.css and 960.gs
 - Factory Girl for test data
 
